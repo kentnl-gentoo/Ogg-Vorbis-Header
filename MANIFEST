@@ -3,7 +3,7 @@ Header.pm
 Makefile.PL
 MANIFEST
 README
-test.pl
+t/test.t
 test.ogg
 test.ogg.bak
 LICENSE.GPL
